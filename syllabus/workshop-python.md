@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Workshop ini membahas dasar-dasar pemrograman menggunakan Python serta pengenalan beberapa topik spesifik yang biasanya diselesaikan menggunakan Python. Workshop ini bisa diselesaikan menggunakan sofware [Python dari situs resmi](https://www.python.org) maupun menggunakan distribusi lain seperti [Anaconda](https://www.anaconda.com/). Python dari web resmi Python selalu mengacu ke versi stabil terakhir. Distribusi seperti **Anaconda** kemungkinan menggunakan versi yang lebih rendah. Dalam kasus seperti ini, versi stabil terakhir yang akan menjadi acuan, siswa diminta untuk melakukan penyesuaian.
+Workshop ini membahas dasar-dasar pemrograman menggunakan Python serta pengenalan beberapa topik spesifik yang biasanya diselesaikan menggunakan Python. Workshop ini bisa diselesaikan menggunakan sofware [Python dari situs resmi](https://www.python.org) maupun menggunakan distribusi lain seperti [Anaconda](https://www.anaconda.com/). Python dari web resmi Python selalu mengacu ke versi stabil terakhir. Distribusi seperti **Anaconda** kemungkinan menggunakan versi yang lebih rendah. Versi Python yang digunakan kemungkinan bervariasi dan akan dibahas secara spesifik di kelas.
 
 ## Dosen
 
