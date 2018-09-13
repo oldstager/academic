@@ -10,3 +10,4 @@
 8. [Kevin Ali](https://github.com/kevin155610082/bigdata)
 9. [Plasidius Abriyanto Tasu](https://github.com/rintotasu/bigdata)
 10. [Saul M. Silalahi](https://github.com/saulsilalahi/bigdata)
+11. [Delvio Soares de Sales](https://github.com/delvios/bigdata)
