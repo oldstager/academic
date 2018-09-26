@@ -23,3 +23,12 @@
 5.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-03/praktik** tersebut (nama file: README.md).
 6.  Buat direktori **src** di direktori **minggu-03/praktik**, isikan source code dari Tutorial yang telah anda kerjakan, buat nama file untuk source code tersebut sesuai dengan fungsinya, misalnya **list.py** jika berisi latihan **list** di Python.
 
+# Minggu 04
+
+1.  Buat direktori **minggu-04** di repo **bigdata** di GitHub anda
+2.  Buat direktori **teori** dan **praktik** di **minggu-04**
+3.  Buat file README.md di **minggu-04/teori** yang berisi materi teori pada minggu ke 4
+4.  Kerjakan [Tutorial Python di dokumentasi Python](https://docs.python.org/3/tutorial/index.html) bab 6, 7, 8, dan 9..
+5.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-04/praktik** tersebut (nama file: README.md).
+6.  Buat direktori **src** di direktori **minggu-04/praktik**, isikan source code dari Tutorial yang telah anda kerjakan, buat nama file untuk source code tersebut sesuai dengan fungsinya, misalnya **modules-fibo.py** jika berisi latihan **modules** untuk menyelesaikan masalah *fibonaci* di Python.
+
