@@ -11,3 +11,5 @@
 9. [Plasidius Abriyanto Tasu](https://github.com/rintotasu/bigdata)
 10. [Saul M. Silalahi](https://github.com/saulsilalahi/bigdata)
 11. [Delvio Soares de Sales](https://github.com/delvios/bigdata)
+12. [Siti Rosana](https://github.com/Sitirosana/bigdata)
+13. [Pidiman Syahputra](https://github.com/vhidy/bigdata)
