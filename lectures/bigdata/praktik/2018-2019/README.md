@@ -4,7 +4,7 @@
 
 1.  Setiap peserta membuat repo di akun GitHub masing-masing.
 2.  Nama repo: **bigdata**
-3.  Ikuti ketentuan untuk setiap minggu seperti di bawah/
+3.  Ikuti ketentuan untuk setiap minggu seperti di bawah
 
 ## Minggu 01
 
