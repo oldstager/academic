@@ -13,3 +13,4 @@
 11. [Delvio Soares de Sales](https://github.com/delvios/bigdata)
 12. [Siti Rosana](https://github.com/Sitirosana/bigdata)
 13. [Pidiman Syahputra](https://github.com/vhidy/bigdata)
+14. [Guntur Sakona](https://github.com/guntursakona0086/bigdata)

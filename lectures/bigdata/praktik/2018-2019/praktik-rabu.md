@@ -4,5 +4,4 @@
 2.  [Yakup Abdullah](https://github.com/arumbay007/bigdata)
 3.  [Achmad Mirza](https://github.com/mirzameya/bigdata)
 4.  [Gita Perdani](https://github.com/gitaperdani/bigdata)
-5.  [Guntur Sakona](https://github.com/guntursakona0086/bigdata)
-6.  [Hugo Osvaldo X de Sousa](https://github.com/osvaldosousahugo/bigdata)
+5.  [Hugo Osvaldo X de Sousa](https://github.com/osvaldosousahugo/bigdata)
