@@ -49,3 +49,24 @@
 5.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-05/praktik** tersebut (nama file: README.md).
 6.  Buat direktori **src** di direktori **minggu-05/praktik**, isikan source code dari Tutorial yang telah anda kerjakan, buat nama file untuk source code tersebut sesuai dengan fungsinya, misalnya **os-interface.py** jika berisi latihan **standard library untuk OS interface** di Python.
 
+## Minggu 06
+
+1.  Buat direktori **minggu-06** di repo **bigdata** di GitHub anda
+2.  Buat direktori **teori** dan **praktik** di **minggu-06**
+3.  Buat file README.md di **minggu-06/teori** yang berisi materi teori pada minggu ke 6
+4.  Install [miniconda](https://conda.io/miniconda.html) atau [Anaconda](https://www.anaconda.com/download).
+5.  [Install Apache Airflow](https://airflow.apache.org/installation.html) dan pahami serta kerjakan [tutorial Apache Airflow](https://airflow.apache.org/tutorial.html).
+6.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-06/praktik** tersebut (nama file: README.md).
+7.  Buat direktori **src** di direktori **minggu-06/praktik**, isikan source code dari tutorial yang telah anda kerjakan.
+
+## Minggu 07
+
+1.  Buat direktori **minggu-07** di repo **bigdata** di GitHub anda
+2.  Buat direktori **teori** dan **praktik** di **minggu-07**
+3.  Buat file README.md di **minggu-07/teori** yang berisi materi teori pada minggu ke 7
+4.  [Install](http://pandas.pydata.org/pandas-docs/stable/install.html) [pandas](https://pandas.pydata.org/). 
+5.  Pahami struktur data di pandas, kerjakan [latihan struktur data di pandas](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)
+6.  Kerjakan [lesson 1](http://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb) untuk memahami pengolahan data menggunakan pandas.
+7.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-07/praktik** tersebut (nama file: README.md).
+8.  Buat direktori **src** di direktori **minggu-07/praktik**, isikan source code dari tutorial yang telah anda kerjakan.
+
