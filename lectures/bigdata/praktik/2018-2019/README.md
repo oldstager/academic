@@ -70,3 +70,12 @@
 7.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-07/praktik** tersebut (nama file: README.md).
 8.  Buat direktori **src** di direktori **minggu-07/praktik**, isikan source code dari tutorial yang telah anda kerjakan.
 
+## Minggu 08
+
+1.  Buat direktori **minggu-08** di repo **bigdata** di GitHub anda
+2.  Buat direktori **teori** dan **praktik** di **minggu-08**
+3.  Akses dan baca [dokumentasi pandas](http://pandas.pydata.org/pandas-docs/stable/index.html). Buat file README.md di **minggu-08/teori** yang berisi rangkuman dari [Package Overview](http://pandas.pydata.org/pandas-docs/stable/overview.html) serta [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html).
+4.  Kerjakan [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) untuk memahami struktur data di pandas.
+5.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-08/praktik** tersebut (nama file: README.md).
+6.  Buat direktori **src** di direktori **minggu-08/praktik**, isikan source code dari tutorial yang telah anda kerjakan.
+
