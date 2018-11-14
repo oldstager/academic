@@ -31,7 +31,7 @@ Dr. Bambang Purnomosidi D. P.
 5.  [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 
 ## Materi Kuliah
-b 
+
 | Minggu | Judul | Sumber |
 | ------- | ------ |------ |
 | 1 | Pengenalan dan Ruang Lingkup Big Data | - | 
