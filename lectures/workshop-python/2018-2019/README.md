@@ -10,3 +10,4 @@
 6.  [Peres Gusnan Tambunan](https://github.com/peresg10179)
 7.  [Thomas Prayudhi Triutomo](https://github.com/zthomaz)
 8.  [Yusuf Ali Azhar](https://github.com/yusufaliazhar95)
+9.  [Juliana](http://github.com/115410179/workshop-python)
