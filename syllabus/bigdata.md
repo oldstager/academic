@@ -14,7 +14,7 @@ Mata kuliah ini membahas tentang pengelolaan *data sets* yang sangat besar dan d
 
 Hal utama yang akan dibahas adalah pengelolaan dan analisis data dengan jumlah *data sets* yang sangat besar. Secara umum siswa akan dikenalkan dengan ruang lingkup, ekosistem, serta peranti analisis. Software yang digunakan adalah:
 
-- Python
+- Python dan berbagai pustaka untuk data engineering dan pengenalan data science.
 - DBMS SQL, NoSQL, NewSQL
 
 
@@ -24,26 +24,28 @@ Dr. Bambang Purnomosidi D. P.
 
 ## Resources
 
-* [Repo Akademik](https://github.com/oldstager/academic)
-* [Python documentation](https://docs.python.org/3/)
-* [Conda package and environment manager](https://conda.io)
+1.  [Repo Akademik](https://github.com/oldstager/academic)
+2.  [Python documentation](https://docs.python.org/3/)
+3.  [Conda package and environment manager](https://conda.io)
+4.  [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
+5.  [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 
-## Materi Workshop
-
+## Materi Kuliah
+b 
 | Minggu | Judul | Sumber |
 | ------- | ------ |------ |
-| 1 | Instalasi dan Penggunaan *Interpreter* Python | Tutorial - bab 1 sampai 3 | 
-| 2 | Pengendali Aliran Program | Tutorial - bab 4 | 
-| 3 | Struktur Data | Tutorial - bab 5 | 
-| 4 | Modul di Python | Tutorial - bab 6 | 
-| 5 | I/O | Tutorial - bab 7 | 
-| 6 | Penanganan Error dan Exception | Tutorial - bab 8 | 
-| 7 | OOP di Python | Tutorial - bab 9 | 
-| 8 | Pustaka Standar | Tutorial - bab 10 dan 11 | 
-| 9 | Virtual Environment dan Package Manager | Tutorial - bab 12 | 
-| 10 | Akses ke Basis Data | PEP-249, dokumentasi psycopg, [PyMongo](https://github.com/mongodb/mongo-python-driver), [SQLAlchemy](https://www.sqlalchemy.org/), CockroachDB |
-| 11 | Pemrograman Web | [Flask](http://flask.pocoo.org/) | 
-| 12 | Python untuk Komputasi Ilmiah | [SciPy](https://www.scipy.org/) | 
-| 13 | Python untuk Data Analytics | [pandas](http://pandas.pydata.org/) | 
-| 14 | Python untuk Machine Learning | [scikit-learn](http://scikit-learn.org/stable/) | 
+| 1 | Pengenalan dan Ruang Lingkup Big Data | - | 
+| 2 | Memahami Data Engineering dan Data Science | - | 
+| 3 | Memahami ETL | - | 
+| 4 | Database dan Data Warehouse | - | 
+| 5 | SQL, NoSQL, NewSQL | - | 
+| 6 | Apache Airflow untuk Data Engineering | https://airflow.apache.org | 
+| 7 | Jupyter | https://jupyter.org | 
+| 8 | Pengenalan Pandas: Series dan DataFrame | 4 (bab 1) dan 5 | 
+| 9 | Operasi DataFrame | 4 (bab 2)  | 
+| 10 | Pengenalan Analisis Data | 4 (bab 3) | 
+| 11 | Memilih Subset Data  | 4 (bab 4) | 
+| 12 | Indeks dan Pengelompokan| 4 (bab 5, 6, 7) | 
+| 13 | Restrukturisasi Data dan Analisis Time Series| 4 (bab 8, 9, 10) | 
+| 14 | Visualisasi Data | 4 (bab 11) | 
 
