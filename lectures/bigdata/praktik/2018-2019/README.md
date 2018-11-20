@@ -91,7 +91,16 @@ Materi pada minggu ini memerlukan buku [Pandas Cookbook](https://www.packtpub.co
   * Bagaimana cara instalasi Jupyter?
   * Bagaimana cara menggunakan Jupyter untuk _interactive computing_ di Python?
 4.  Kerjakan [Jupyter Notebook Quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html).
-5.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-09/praktik** tersebut (nama file: README.md).
-6.  Kerjakan _Chapter 1 - Pandas Foundation_ pada buku **Pandas Cookbook** dan simpan hasilnya di direktori direktori **minggu-09/praktik/src**. Pada direktori **minggu-09/praktik** buat file README berisi rangkuman dari apa yang anda kerjakan di bab tersebut.
+5.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-09/praktik/jupyter** tersebut (nama file: README.md).
+6.  Kerjakan _Chapter 1 - Pandas Foundation_ pada buku **Pandas Cookbook** dan simpan hasilnya di direktori **minggu-09/praktik/pandas-01/src**. Pada direktori **minggu-09/praktik/pandas-01** buat file README berisi rangkuman dari apa yang anda kerjakan di bab tersebut.
 
+## Minggu 10
+
+Materi pada minggu ini memerlukan buku [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
+
+1.  Buat direktori **minggu-10** di repo **bigdata** di GitHub anda
+2.  Buat direktori **teori** dan **praktik** di **minggu-10**
+3.  Kerjakan [Intro to Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html) di dokumentasi Pandas. Source code yang anda buat diletakkan di **minggu-10/praktik/src/pandas-data-structures**.
+4.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-10/teori** tersebut (nama file: README.md).
+6.  Kerjakan _Chapter 2 - Essential DataFrame Operations_ pada buku **Pandas Cookbook** dan simpan hasilnya di direktori **minggu-10/praktik/pandas-02/src**. Pada direktori **minggu-10/praktik/pandas-02** buat file README berisi rangkuman dari apa yang anda kerjakan di bab tersebut.
 
