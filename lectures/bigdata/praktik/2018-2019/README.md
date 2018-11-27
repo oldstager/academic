@@ -111,7 +111,7 @@ Materi pada minggu ini memerlukan buku [Pandas Cookbook](https://www.packtpub.co
 1.  Buat direktori **minggu-11** di repo **bigdata** di GitHub anda
 2.  Buat direktori **teori** dan **praktik** di **minggu-11**
 3.  [Clone](https://help.github.com/articles/cloning-a-repository/) repo [Pandas Cookbook](https://github.com/PacktPublishing/Pandas-Cookbook) di direktori lain (terserah anda, yang jelas harus di luar repo **bigdata**).
-4.  Copy notebook Jupyter untuk bab 3 di direktori **praktik**
+4.  Copy notebook Jupyter untuk bab 3 di direktori **praktik**, [jalankan notebook](https://jupyter.readthedocs.io/en/latest/running.html) tersebut.
 5.  Kerjakan berbagai source code yang ada di notebook tersebut di direktori **praktik**, setiap satu source code menempati 1 file python.
 6.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-11/teori** tersebut (nama file: README.md).
 
