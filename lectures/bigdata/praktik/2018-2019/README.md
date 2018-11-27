@@ -104,3 +104,14 @@ Materi pada minggu ini memerlukan buku [Pandas Cookbook](https://www.packtpub.co
 4.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-10/teori** tersebut (nama file: README.md).
 6.  Kerjakan _Chapter 2 - Essential DataFrame Operations_ pada buku **Pandas Cookbook** dan simpan hasilnya di direktori **minggu-10/praktik/pandas-02/src**. Pada direktori **minggu-10/praktik/pandas-02** buat file README berisi rangkuman dari apa yang anda kerjakan di bab tersebut.
 
+## Minggu 11
+
+Materi pada minggu ini memerlukan buku [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
+
+1.  Buat direktori **minggu-11** di repo **bigdata** di GitHub anda
+2.  Buat direktori **teori** dan **praktik** di **minggu-11**
+3.  Clone repo [Pandas Cookbook](https://github.com/PacktPublishing/Pandas-Cookbook) di direktori lain (terserah anda, yang jelas harus di luar repo **bigdata**.
+4.  Copy notebook Jupyter untuk bab 3 di direktori **praktik**
+5.  Kerjakan berbagai source code yang ada di notebook tersebut di direktori **praktik**, setiap satu source code menempati 1 file python.
+6.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-11/teori** tersebut (nama file: README.md).
+
