@@ -115,3 +115,36 @@ Materi pada minggu ini memerlukan buku [Pandas Cookbook](https://www.packtpub.co
 5.  Kerjakan berbagai source code yang ada di notebook tersebut di direktori **praktik**, setiap satu source code menempati 1 file python.
 6.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-11/teori** tersebut (nama file: README.md).
 
+## Minggu 12
+
+Materi pada minggu ini memerlukan buku [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
+
+1.  Buat direktori **minggu-12** di repo **bigdata** di GitHub anda
+2.  Buat direktori **teori** dan **praktik** di **minggu-12**
+3.  Jika belum mengerjakan *minggu 11 - nomor 3*, kerjakan terlebih dahulu. Jika sudah silahkan dilanjutkan.
+4.  Copy notebook Jupyter untuk bab 4, 5, 6, dan 7 di direktori **praktik**, [jalankan berbagai notebook](https://jupyter.readthedocs.io/en/latest/running.html) tersebut.
+5.  Kerjakan berbagai source code yang ada di notebook tersebut di direktori **praktik**, setiap satu source code menempati 1 file python.
+6.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-12/teori** tersebut (nama file: README.md).
+
+## Minggu 13
+
+Materi pada minggu ini memerlukan buku [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
+
+1.  Buat direktori **minggu-13** di repo **bigdata** di GitHub anda
+2.  Buat direktori **teori** dan **praktik** di **minggu-13**
+3.  Jika belum mengerjakan *minggu 11 - nomor 3*, kerjakan terlebih dahulu. Jika sudah silahkan dilanjutkan.
+4.  Copy notebook Jupyter untuk bab 8, 9, dan 10 di direktori **praktik**, [jalankan berbagai notebook](https://jupyter.readthedocs.io/en/latest/running.html) tersebut.
+5.  Kerjakan berbagai source code yang ada di notebook tersebut di direktori **praktik**, setiap satu source code menempati 1 file python.
+6.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-13/teori** tersebut (nama file: README.md).
+
+## Minggu 14
+
+Materi pada minggu ini memerlukan buku [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
+
+1.  Buat direktori **minggu-14** di repo **bigdata** di GitHub anda
+2.  Buat direktori **teori** dan **praktik** di **minggu-14**
+3.  Jika belum mengerjakan *minggu 11 - nomor 3*, kerjakan terlebih dahulu. Jika sudah silahkan dilanjutkan.
+4.  Copy notebook Jupyter untuk bab 11 di direktori **praktik**, [jalankan notebook](https://jupyter.readthedocs.io/en/latest/running.html) tersebut.
+5.  Kerjakan berbagai source code yang ada di notebook tersebut di direktori **praktik**, setiap satu source code menempati 1 file python.
+6.  Tuliskan hasil yang anda kerjakan tersebut dalam format Markdown di direktori **minggu-14/teori** tersebut (nama file: README.md).
+
