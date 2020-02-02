@@ -1,15 +1,16 @@
-# Syllabus
+# Silabi
 
-## About
+## Tentang Repo Ini
 
-Syllabus of some lectures which I taught/teach/will teach. Currently, you may browse from the list:
+Repo ini berisi beberapa silabi dari mata kuliah yang saya ajar, baik di [STMIK
+Akakom](https://www.akakom.ac.id), maupun di tempat lain. 
 
 * [Workshop - Python](workshop-python.md)
 * [Teknologi Cloud Terapan](teknologi-cloud-terapan.md)
 * [Teknologi Cloud Computing](teknologi-cloud-computing.md)
-* [Big Data](bigdata.md)
+* [Pengenalan Big Data](pengenalan-bigdata.md)
 
-## General Policy
+## Ketentuan Umum
 
 - Prosentase penilaian:
   - Ujian Tengah Semester: 50%
@@ -21,7 +22,7 @@ Syllabus of some lectures which I taught/teach/will teach. Currently, you may br
   - Menulis artikel jurnal
   - Menulis artikel ilmiah yang dipresentasikan pada seminar akademik level nasional maupun internasional.
   - Mempunyai software open source aktif dan mempunyai star di GitHub sebanyak minimal 100 
-  - Menjuarai lomba
+  - Menjuarai satu atau beberapa lomba yang terkait dengan mata kuliah.
 - Ujian (UTS maupun UAS) bersifat buku terbuka. Kisi-kisi soal ujian akan diberikan dengan ketentuan:
   - Terdiri atas 3 bagian (I, II, III)
   - Bagian I adalah penjelasan terminologi (nilai 20)

@@ -1,6 +1,6 @@
 # Academic Repos
 
-This repo is used to store any academic related things. They are usually in Bahasa Indonesia - as I teach in Indonesia - while maybe occasionally I also write things in English. Feel free to browse this repo. All contents use Creative Common CC-BY-SA license:
+This repo is used to store any academic related things. They are usually in Bahasa Indonesia - since I teach in Indonesia - while maybe occasionally I also write things in English. Feel free to browse this repo. All contents are Creative Common CC-BY-SA licensed:
 
 ![CC-BY-SA](images/cc-by-sa.png)
 ```
