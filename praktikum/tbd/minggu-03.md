@@ -17,6 +17,7 @@
 * Sistem Operasi: Linux, Windows, Mac, FreeBSD, dan sistem operasi lain yang mendukung 
 * JDK 8 ([Oracle](https://www.oracle.com/technetwork/java/javase/downloads/index.html) - pilih Java SE 8uxxx dengan xxx adalah angka patch release. Bisa juga menggunakan [OpenJDK](https://adoptopenjdk.net/) - pilih OpenJDK 8 LTS dengan JVM Hotspot). 
 * [Python 2.7](https://www.python.org/downloads/) (untuk CQL shell)
+* [Apache Cassandra - latest version](https://cassandra.apache.org/download/).
 
 ## Pembelajaran
 
