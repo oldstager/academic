@@ -31,7 +31,7 @@ Dr. Bambang Purnomosidi D. P.
 | Minggu | Judul | 
 | ------- | ------ |
 | 1 | [SQL: Basis Data Relasional](tbd/minggu-01.md) | 
-| 2 | NoSQL - Wide Column Array 1: Memulai Apache Cassandra | 
+| 2 | [NoSQL - Wide Column Array 1: Memulai Apache Cassandra](tbd/minggu-02.md) | 
 | 3 | NoSQL - Wide Column Array 2: Apache Cassandra Lanjut | 
 | 4 | NoSQL - Document Store 1: Memulai MongoDB | 
 | 5 | NoSQL - Document Store 2: MongoDB Lanjut | 
