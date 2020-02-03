@@ -30,7 +30,7 @@ Dr. Bambang Purnomosidi D. P.
 
 | Minggu | Judul | 
 | ------- | ------ |
-| 1 | SQL: Basis Data Relasional | 
+| 1 | [SQL: Basis Data Relasional](tbd/minggu-01.md) | 
 | 2 | NoSQL - Wide Column Array 1: Memulai Apache Cassandra | 
 | 3 | NoSQL - Wide Column Array 2: Apache Cassandra Lanjut | 
 | 4 | NoSQL - Document Store 1: Memulai MongoDB | 
@@ -44,4 +44,9 @@ Dr. Bambang Purnomosidi D. P.
 | 12 | NoSQL - Multimodel DB 1: Memulai ArangoDB | 
 | 13 | NoSQL - Multimodel DB 2: ArangoDB Lanjut | 
 | 14 | NewSQL - CockroachDB | 
+
+## Peserta
+
+* [Tahun ajaran 2019-2020 Genap](tbd-2019-2020-genap/)
+
 
