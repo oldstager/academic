@@ -1,4 +1,4 @@
-# Praktikum Teknologi Basis Data - Monggu 1
+# Praktikum Teknologi Basis Data - Minggu 1
 
 ## Materi
 
