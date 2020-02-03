@@ -49,4 +49,6 @@ Dr. Bambang Purnomosidi D. P.
 
 * [Tahun ajaran 2019-2020 Genap](tbd-2019-2020-genap/)
 
+## Pengerjaan Praktikum
 
+Hasil praktikum disimpan pada repo dengan nama `tekn-basis-data` dengan struktur [seperti yang telah ditetapkan pada dokumen ini](struktur-direktori.md).
