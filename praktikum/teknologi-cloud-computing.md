@@ -10,7 +10,7 @@ Dr. Bambang Purnomosidi D. P.
 
 ## Referensi
 
-1. 
+Lihat pada `Materi dan Penjelasan` di setiap minggu
 
 ## Materi Praktikum
 
