@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Praktikum ini digunakan untuk mendalami teknologi pada Cloud Computing dengan menggunakan pendekatan praktik. Dalam praktikum ini, mahasiswa akan dikenalkan 
+Praktikum ini digunakan untuk mendalami teknologi pada Cloud Computing dengan menggunakan pendekatan praktik. Dalam praktikum ini, mahasiswa akan dikenalkan berbagai teknologi yang membentuk XaaS / Cloud Computing, yaitu SaaS (Software as a Service), PaaS (Platform as a Service), serta IaaS (Infrastructure as a Service). Teknologi cloud computing mempengaruhi banyak hal dalam pengembangan aplikasi sehingga berbagai macam teknologi yang terkait dengan service pengembangan aplikasi juga dibahas. Praktikum akan diakhiri dengan pembahasan tentang *native cloud application* yang merupakan aplikasi yang memanfaatrkan berbagai sumber daya cloud secara native.
 
 ## Dosen
 
@@ -10,33 +10,26 @@ Dr. Bambang Purnomosidi D. P.
 
 ## Referensi
 
-1.  [What is Normalization? 1NF, 2NF, 3NF, and BCNF with Examples](https://www.guru99.com/database-normalization.html).
-2.  [Dokumentasi MySQL / MariaDB](https://mariadb.org/documentation/)
-3.  [Dokumentasi Apache Cassandra](https://cassandra.apache.org/doc/latest/)
-4.  [Dokumentasi MongoDB](https://www.mongodb.com/)
-5.  [Dokumentasi Redis](https://redis.io/documentation)
-6.  [Dokumentasi Neo4J](https://neo4j.com/docs/)
-7.  [Dokumentasi InfluxDB](https://docs.influxdata.com/)
-8.  [Dokumentasi ArangoDB](https://www.arangodb.com/documentation/)
+1. 
 
 ## Materi Praktikum
 
 | Minggu | Judul | 
 | ------- | ------ |
-| 1 | [SQL: Basis Data Relasional](tbd/minggu-01.md) | 
-| 2 | [NoSQL - Wide Column Array 1: Memulai Apache Cassandra](tbd/minggu-02.md) | 
-| 3 | NoSQL - Wide Column Array 2: Apache Cassandra Lanjut | 
-| 4 | NoSQL - Document Store 1: Memulai MongoDB | 
-| 5 | NoSQL - Document Store 2: MongoDB Lanjut | 
-| 6 | NoSQL - Key Value / Tuple 1: Memulai Redis | 
-| 7 | NoSQL - Key Value / Tuple 2: Redis Lanjut | 
-| 8 | NoSQL - GraphDB 1: Memulai Neo4J | 
-| 9 | NoSQL - GraphDB 2: Neo4J Lanjut | 
-| 10 | NoSQL - Time Series DB 1: Memulai InfluxDB | 
-| 11 | NoSQL - Time Series DB 2: InfluxDB Lanjut | 
-| 12 | NoSQL - Multimodel DB 1: Memulai ArangoDB | 
-| 13 | NoSQL - Multimodel DB 2: ArangoDB Lanjut | 
-| 14 | NewSQL - CockroachDB | 
+| 1 | [SCM: Git dan GitHub](tcc/minggu-01.md) | 
+| 2 | | 
+| 3 | | 
+| 4 | | 
+| 5 | | 
+| 6 | | 
+| 7 | | 
+| 8 | | 
+| 9 | | 
+| 10 | | 
+| 11 | | 
+| 12 | | 
+| 13 | | 
+| 14 | | 
 
 ## Peserta
 

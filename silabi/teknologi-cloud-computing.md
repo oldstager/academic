@@ -25,7 +25,7 @@ Dr. Bambang Purnomosidi D. P.
 Beberapa sumber referensi berikut diambil semaksimal mungkin dari Internet dengan akses bebas.
 Perhatikan bahwa ada kemungkinan terdapat kesalahan-kesalahan. Silahkan periksa ulang dengan melhat
 ke berbagai macam referensi (jika Wikipedia, bisa dilihat di bagian *References* dan lain-lain).
-Kewajiban untuk memeriksa ulang ada pada kita. Don't take them as granted, always doble check.
+Kewajiban untuk memeriksa ulang ada pada kita. Don't take them as granted, always double check.
 
 1. [Artikel tentang Cloud Computing di Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing).
 2. [The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf).
