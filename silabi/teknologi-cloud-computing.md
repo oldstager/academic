@@ -61,7 +61,7 @@ Kewajiban untuk memeriksa ulang ada pada kita. Don't take them as granted, alway
     * https://resources.github.com/whitepapers/practical-guide-to-CI-with-Jenkins-and-GitHub/
     * https://jenkins.io/solutions/github/
     * https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project/
-32. [Ballerina untuk CLoud Native App Development](https://ballerina.io/v1-1/learn/).
+32. [Ballerina untuk Cloud Native App Development](https://ballerina.io/v1-1/learn/).
 
 ## Materi
 
