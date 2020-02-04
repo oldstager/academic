@@ -2,7 +2,7 @@
 
 ## Materi
 
-**Git SCM dan GitHub**
+**SCM: Git dan GitHub**
 
 ### Tujuan
 
@@ -20,7 +20,7 @@
 5. Git untuk single person development
 6. Git untuk tim pengembang aplikasi
 
-## Softawre yang Diperlukan
+## Software yang Diperlukan
 
 1. [Git](https://git-scm.com)
 2. Editor teks - bebas.
@@ -50,7 +50,7 @@ Tugas
 ```
 
 1. Kerjakan [materi RTFM di repo STMIK Akakom](https://github.com/stmik-akakom/rtfm) - nomor 4. Silahkan memilih teman untuk mengerjakan. Anda bebas memilih, siapa yang akan jadi *upstream author* dan siapa yang akan jadi *kontributor*. Simpan hasilnya dalam bentuk file markdown dengan nama file `git-kolaborasi.md` di direktori `minggu-01`, kemudian push ke repo `tekn-cloud-computing`.
-2. Buat file `README.md` di direktori `minggu-01`. File ini berisi link ke berbagai file yang sudah anda hasilkan (ada 3 file markdown).
+2. Buat file `README.md` di direktori `minggu-01`. File ini berisi link ke berbagai file yang sudah anda hasilkan (ada 3 file markdown). Push hasilnya ke repo `tekn-cloud-computing`.
 
 Setelah selesai mengerjakan latihan dan tugas, isi dari direktori `minggu-01` milik anda - baik di komputer lokal anda (repo lokal) maupun di GitHub (remote repo) - kurang lebih sebagai berikut (file gambar-**.jpg hanya untuk ilustrasi, anda mungkin mempunyai lebih dari itu dengan nama bermacam-macam):
 
