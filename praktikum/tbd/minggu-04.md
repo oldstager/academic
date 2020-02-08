@@ -2,7 +2,7 @@
 
 ## Materi
 
-**NoSQL - Document Store 1: Memulai MongoDB**
+**NoSQL - Key Value / Tuple 1: Memulai Redis**
 
 ## Tujuan
 

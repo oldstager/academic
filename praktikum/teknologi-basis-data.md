@@ -31,12 +31,12 @@ Dr. Bambang Purnomosidi D. P.
 | Minggu | Judul | 
 | ------- | ------ |
 | 1 | [SQL: Basis Data Relasional](tbd/minggu-01.md) | 
-| 2 | [NoSQL - Wide Column Array 1: Memulai Apache Cassandra](tbd/minggu-02.md) | 
-| 3 | NoSQL - Wide Column Array 2: Apache Cassandra Lanjut | 
-| 4 | NoSQL - Document Store 1: Memulai MongoDB | 
-| 5 | NoSQL - Document Store 2: MongoDB Lanjut | 
-| 6 | NoSQL - Key Value / Tuple 1: Memulai Redis | 
-| 7 | NoSQL - Key Value / Tuple 2: Redis Lanjut | 
+| 2 | [NoSQL - Document Store 1: Memulai MongoDB](tbd/minggu-02.md) | 
+| 3 | NoSQL - Document Store 2: MongoDB Lanjut | 
+| 4 | NoSQL - Key Value / Tuple 1: Memulai Redis | 
+| 5 | NoSQL - Key Value / Tuple 2: Redis Lanjut | 
+| 6 | [NoSQL - Wide Column Array 1: Memulai Apache Cassandra](tbd/minggu-06.md) | 
+| 7 | NoSQL - Wide Column Array 2: Apache Cassandra Lanjut | 
 | 8 | NoSQL - GraphDB 1: Memulai Neo4J | 
 | 9 | NoSQL - GraphDB 2: Neo4J Lanjut | 
 | 10 | NoSQL - Time Series DB 1: Memulai InfluxDB | 

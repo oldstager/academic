@@ -2,7 +2,7 @@
 
 ## Materi
 
-**NoSQL - Document Store 2: MongoDB Lanjut**
+**NoSQL - Key Value / Tuple 2: Redis Lanjut**
 
 ## Tujuan
 
