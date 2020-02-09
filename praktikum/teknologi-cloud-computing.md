@@ -17,7 +17,7 @@ Lihat pada `Materi dan Penjelasan` di setiap minggu
 | Minggu | Judul | 
 | ------- | ------ |
 | 1 | [SCM: Git dan GitHub](tcc/minggu-01.md) | 
-| 2 | | 
+| 2 | [Software as a Service](tcc/minggu-02.md) | 
 | 3 | | 
 | 4 | | 
 | 5 | | 

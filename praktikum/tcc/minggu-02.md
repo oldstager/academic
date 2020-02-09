@@ -1,28 +1,28 @@
-# Praktikum Teknologi Basis Data - Minggu 2
+# Praktikum Teknologi Cloud Computing - Minggu 2
 
 ## Materi
 
-**NoSQL - Wide Column Array 1: Memulai Apache Cassandra**
+**Software as a Service**
 
 ## Tujuan
 
-1. Mahasiswa memahami model data di Apache Cassandra serta perbedaannya dengan model relasional
-2. Mahasiswa memahami masalah yang bisa dipecahkan dengan model data dari Apache Cassandra
-3. Mahasiswa mampu menginstall dan mengimplementasikan dasar-dasar konfigurasi Apache Cassandra
-4. Mahasiswa mampu mengelola service dari server Apache Cassandra
-5. Mahasiswa mampu menggunakan **cqlsh** untuk dasar-dasar query menggunakan CQL.
+1. Mahasiswa memahami perbedaan antara IaaS, PaaS, dan SaaS
+2. Mahasiswa memahami dan mampu mengidentifikasi apakah suatu layanan dari vendor Cloud Computing masuk ke dalam kategori IaaS, PaaS, ataukah SaaS.
+3. Mahasiswa memahami berbagai komponen SaaS
+4. Mahasiswa mampu mencari berbagai contoh dari SaaS dan membandingkannya dengan layanan *on-premise* maupun *desktop*.
+5. Mahasiswa memahami arsitektur SaaS secara konsepsual.
 
 ## Pembahasan
 
-1. Memahami *wide column database*
-2. Mulai menggunakan Apache Cassandra
+1. Memahami dasar-dasar SaaS
+2. Arsitektur dan komponen SaaS
+3. Berbagai contoh SaaS
 
 ## Software yang Diperlukan
 
 * Sistem Operasi: Linux, Windows, Mac, FreeBSD, dan sistem operasi lain yang mendukung 
-* JDK 8 ([Oracle](https://www.oracle.com/technetwork/java/javase/downloads/index.html) - pilih Java SE 8uxxx dengan xxx adalah angka patch release. Bisa juga menggunakan [OpenJDK](https://adoptopenjdk.net/) - pilih OpenJDK 8 LTS dengan JVM Hotspot). 
-* [Python 2.7](https://www.python.org/downloads/) (untuk CQL shell)
-* [Apache Cassandra - latest version](https://cassandra.apache.org/download/).
+* Web browser
+* [Git](https://git-scm.com)
 
 ## Pembelajaran
 
@@ -30,22 +30,23 @@
 Materi dan Penjelasan
 ```
 
-1. [Perbedaan model data di Apache Cassandra dengan RDBMS](https://www.javatpoint.com/rdbms-vs-cassandra).
-2. Memahami *wide column database* serta domain masalahnya: 
-    * [Artikel di DataVersity](https://www.dataversity.net/wide-column-database/).
-    * [Artikel di Wikipedia](https://en.wikipedia.org/wiki/Wide_column_store).
-3. [Getting Started](https://cassandra.apache.org/doc/latest/getting_started/index.html).
-4. [Instalasi Apache Cassandra di Windows 10](https://medium.com/@sushantgautam_930/simple-way-to-install-cassandra-in-windows-10-6497e93989e6).
+1. [What is the difference between IaaS, SaaS, and PaaS?](https://www.quora.com/What-is-the-difference-between-IaaS-SaaS-and-Paas). 
+2. [SaaS Platform Architecture](https://hackernoon.com/saas-software-as-a-service-platform-architecture-757a432270f5).
+3. [SaaS (Software as a Service) Platform  itecture](https://www.devteam.space/blog/saas-software-as-a-service-platform-architecture/).
+4. [How to build a cloud-based SaaS Application](https://usersnap.com/blog/cloud-based-saas-architecture-fundamentals/).
+
 
 ```
 Latihan
 ```
 
-1. Install Apache Cassandra hinggal bisa dijalankan server dan *cqlsh*
+1. Buatlah rangkuman dari 4 artikel di `Materi dan Penjelasan`, tulis dengan nama file `rangkuman-saas.md`. Struktur dokumen serta subjudul dan lain-lain silahkan dibuat sendiri.
+2. Carilah 3 layanan SaaS, cari juga software desktop / non cloud yang mempunyai funsionalitas sama.
 
 ```
 Tugas
 ```
 
-Kerjakan [A Practical Introduction to Cassandra Query Language](http://abiasforaction.net/a-practical-introduction-to-cassandra-query-language/). Sesuaikan dengan instalasi anda dan versi CQL terbaru yang anda gunakan.
+Dari latihan no 2, buat overview masing-masing layanan tersebut dan simpan dalam file `layanan-saas.md`, jangan lupa sertakan juga software non-cloud yang mempunyai fungsionalitas sama.
+
 
