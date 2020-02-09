@@ -41,12 +41,11 @@ Latihan
 ```
 
 1. Buatlah rangkuman dari 4 artikel di `Materi dan Penjelasan`, tulis dengan nama file `rangkuman-saas.md`. Struktur dokumen serta subjudul dan lain-lain silahkan dibuat sendiri.
-2. Carilah 3 layanan SaaS, cari juga software desktop / non cloud yang mempunyai funsionalitas sama.
+2. Software untuk membuat diagram di Cloud diantaranya ada https://draw.io, sementara itu versi non-cloud yang mempunyai fungsionalitas sama diantaranya adalah Microsoft Visio, [Calligra Flow](https://www.calligra.org/flow/), serta [Dia](http://dia-installer.de/). Carilah 2 layanan SaaS, cari juga software desktop / non cloud yang mempunyai funsionalitas sama.
 
 ```
 Tugas
 ```
 
 Dari latihan no 2, buat overview masing-masing layanan tersebut dan simpan dalam file `layanan-saas.md`, jangan lupa sertakan juga software non-cloud yang mempunyai fungsionalitas sama.
-
 
