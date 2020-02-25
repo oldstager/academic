@@ -1,4 +1,4 @@
-# Praktikum Teknologi Basis Data - Minggu 4
+# Praktikum Teknologi Cloud Computing - Minggu 4
 
 ## Materi
 
