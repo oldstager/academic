@@ -21,7 +21,7 @@ Lihat pada `Materi dan Penjelasan` di setiap minggu
 | 3 | [Platform as a Service](tcc/minggu-03.md) | 
 | 4 | [Infrastructure as a Service dan SDN](tcc/minggu-04.md) | 
 | 5 | [BPaaS - Business Process as a Service](tcc/minggu-05.md) | 
-| 6 | [Data as a Service](tcc/minggu-096.md) | 
+| 6 | [Data as a Service](tcc/minggu-06.md) | 
 | 7 | | 
 | 8 | | 
 | 9 | | 
