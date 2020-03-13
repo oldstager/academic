@@ -2,13 +2,18 @@
 
 ## Tentang Repo Ini
 
-Repo ini berisi beberapa silabi dari mata kuliah yang saya ajar, baik di [STMIK
-Akakom](https://www.akakom.ac.id), maupun di tempat lain. 
+Repo ini berisi beberapa silabi dari mata kuliah yang saya ajar, baik di [STMIK Akakom](https://www.akakom.ac.id), maupun di tempat lain. 
+
+### Program Vokasi / Sarjana
 
 * [Workshop - Python](workshop-python.md)
 * [Teknologi Cloud Terapan](teknologi-cloud-terapan.md)
 * [Teknologi Cloud Computing](teknologi-cloud-computing.md)
 * [Pengenalan Big Data](pengenalan-bigdata.md)
+
+### Magister Teknologi Informasi
+
+* [Paradigma Pemrograman](mti/paradigma-pemrograman.md)
 
 ## Ketentuan Umum
 
