@@ -19,8 +19,7 @@ Dr. Bambang Purnomosidi D. P.
 | Minggu | Materi | Sumber |
 |-------:|--------|--------|
 | 1 | Gambaran umum tentang rekayasa data | 1 |
-| 2 | Instalasi dan konfigurasi Apache Spark | [Download](https://spark.apache.org/downloads.html)
-untuk Apache Spark maupun PySpark, [Spark stand alone mode](https://spark.apache.org/docs/latest/spark-standalone.html) |
+| 2 | Instalasi dan konfigurasi Apache Spark | [Download](https://spark.apache.org/downloads.html) untuk Apache Spark maupun PySpark, [Spark stand alone mode](https://spark.apache.org/docs/latest/spark-standalone.html) |
 | 3 | Memulai Apache Spark | [dokumentasi](https://spark.apache.org/docs/latest/quick-start.html) |
 | 4 | RDD (Resilient Distributed Dataset | [dokumentasi](https://spark.apache.org/docs/latest/rdd-programming-guide.html) |
 | 5 | Spark SQL, DataFrames, dan Datasets | [dokumentasi](https://spark.apache.org/docs/latest/sql-programming-guide.html) |
