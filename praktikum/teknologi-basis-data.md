@@ -36,7 +36,7 @@ Dr. Bambang Purnomosidi D. P.
 | 4 | [NoSQL - Key Value / Tuple 1: Memulai Redis](tbd/minggu-04.md) | 
 | 5 | [NoSQL - Key Value / Tuple 2: Redis Lanjut](tbd/minggu-05.md) | 
 | 6 | [NoSQL - Wide Column Array 1: Memulai Apache Cassandra](tbd/minggu-06.md) | 
-| 7 | NoSQL - Wide Column Array 2: Apache Cassandra Lanjut | 
+| 7 | [NoSQL - Wide Column Array 2: Apache Cassandra Lanjut](tbd/minggu-07.md) | 
 | 8 | NoSQL - GraphDB 1: Memulai Neo4J | 
 | 9 | NoSQL - GraphDB 2: Neo4J Lanjut | 
 | 10 | NoSQL - Time Series DB 1: Memulai InfluxDB | 
