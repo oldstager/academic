@@ -22,7 +22,7 @@ Lihat pada `Materi dan Penjelasan` di setiap minggu
 | 4 | [Infrastructure as a Service dan SDN](tcc/minggu-04.md) | 
 | 5 | [BPaaS - Business Process as a Service](tcc/minggu-05.md) | 
 | 6 | [Data as a Service](tcc/minggu-06.md) | 
-| 7 | | 
+| 7 | [Teknologi Virtualisasi dan *Container* - Docker](tcc/minggu-07.md) | 
 | 8 | | 
 | 9 | | 
 | 10 | | 
