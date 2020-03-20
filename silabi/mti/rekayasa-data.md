@@ -13,12 +13,15 @@ Dr. Bambang Purnomosidi D. P.
 1.  [What is A Data Engineer?](https://www.dataquest.io/blog/what-is-a-data-engineer/).
 2.  [Apache Spark Documentation](https://spark.apache.org/docs/latest/).
 3.  [The Data Engineer's Guide to Apache Spark](https://databricks.com/p/ebook/data-engineer-spark-guide).
+4.  [Learning Apache Spark with Python](https://runawayhorse001.github.io/LearningApacheSpark/pyspark.pdf) beserta supplement: [Notes on Apache Spark](https://github.com/MingChen0919/learning-apache-spark) dan [Learning Apache Spark](https://mingchen0919.github.io/learning-apache-spark/index.html).
 
 ## Materi
 
+Semua materi sumber untuk kuliah disertakan disini, silahkan melihat referensi lain dari buku-buku maupun artikel. Referensi di atas juga mengandung berbagai pembahasan seperti yang ada di bawah ini, silahkan digunakan.
+
 | Minggu | Materi | Sumber |
 |-------:|--------|--------|
-| 1 | Gambaran umum tentang rekayasa data | 1 |
+| 1 | Gambaran umum tentang rekayasa data | Ref-1 |
 | 2 | Instalasi dan konfigurasi Apache Spark | [Download](https://spark.apache.org/downloads.html) untuk Apache Spark maupun PySpark, [Spark stand alone mode](https://spark.apache.org/docs/latest/spark-standalone.html) |
 | 3 | Memulai Apache Spark | [dokumentasi](https://spark.apache.org/docs/latest/quick-start.html) |
 | 4 | RDD (Resilient Distributed Dataset | [dokumentasi](https://spark.apache.org/docs/latest/rdd-programming-guide.html) |
