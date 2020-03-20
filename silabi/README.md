@@ -16,6 +16,7 @@ Repo ini berisi beberapa silabi dari mata kuliah yang saya ajar, baik di [STMIK 
 * [Paradigma Pemrograman](mti/paradigma-pemrograman.md)
 * [Rekayasa Data / *Data Engineering*](mti/rekayasa-data.md)
 * [Arsitektur Software dan Data Berbasis Cloud](mti/arsitektur-software-data-cloud.md)
+* [Sistem Terdistribusi](mti/sistem-terdistribusi.md)
 
 ## Ketentuan Umum
 
