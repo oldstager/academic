@@ -38,7 +38,7 @@ Dr. Bambang Purnomosidi D. P.
 | 1 | Gambaran umum dunia pemrograman | Ref-1, bab 1 |
 | 2 | Data sebagai komponen awal dari program | Ref-1, bab 2 |
 | 3 | *Action* sebagai komponen berikut dari program | Ref-1, bab 3 |
-| 4 | Mengelola ukuran programan | Ref-1, bab 4 |
+| 4 | Mengelola ukuran permasalahan pemrograman | Ref-1, bab 4 |
 | 5 | Masalah kompleksitas | Ref-1, bab 5 |
 | 6 | Organisasi data | Ref-1, bab 6 |
 | 7 | Pemrograman berorientasi obyek 1 | Ref-3, bab 1 dan bab 2 |
