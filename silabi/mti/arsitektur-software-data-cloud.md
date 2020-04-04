@@ -31,7 +31,7 @@ Dr. Bambang Purnomosidi D. P.
 
 15. [Artikel di Wikipedia tentang arsitektur software](https://en.wikipedia.org/wiki/Software_architecture).
 16. Arsitektur diwujudkan dengan menggunakan [modeling language](https://en.wikipedia.org/wiki/Modeling_language).
-17. [Enterprise Architecture](https://en.wikipedia.org/wiki/Enterprise_architecture) merupakan disiplin yang khusus menerapkan arsitektur software di level *enterprise*). Artikel di LinkedIn ini menjelaskan tentang [gambaran umum EA yang sudah mengarah ke Archimate](https://www.linkedin.com/pulse/think-small-enterprise-architecture-tactical-level-tero-karttunen/).
+17. [Enterprise Architecture](https://en.wikipedia.org/wiki/Enterprise_architecture) merupakan disiplin yang khusus menerapkan arsitektur software di level *enterprise*). Artikel di LinkedIn ini menjelaskan tentang [gambaran umum EA yang sudah mengarah ke Archimate](https://www.linkedin.com/pulse/think-small-enterprise-architecture-tactical-level-tero-karttunen/). Enterprise Architecture bisa juga diaplikasikan pada lingkungan Cloud Computing seperti yang telah ditulis pada [Establishing Enterprise Architecture on AWS](https://d1.awsstatic.com/whitepapers/establishing-enterprise-architecture.pdf).
 18. Seperti halnya arsitektur software yang biasanya diwujudkan dengan notasi UML, EA diwujudkan salah satunya dengan menggunakan [Archimate dari OpenGroup](https://www.opengroup.org/archimate-home).
 19. [Archi](https://www.archimatetool.com/) adalah software bebas yang digunakan untuk pemodelan Archimate.
 20. [Artikel di Wikipedia tentang *microservices*](https://en.wikipedia.org/wiki/Microservices).
