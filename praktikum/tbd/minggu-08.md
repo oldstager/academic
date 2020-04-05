@@ -35,6 +35,7 @@ Materi dan Penjelasan
 2.  Untuk melihat berbagai solusi Graph Database yang tersedia, silahkan akses ke sub bagian *Graph Database Management Systems* di [nosql-database.org](https://nosql-database.org/).
 3.  [Gambaran umum Gremlin](https://en.wikipedia.org/wiki/Gremlin_(programming_language)).
 4.  [Dokumentasi Apache TinkerPop](https://tinkerpop.apache.org/).
+5.  [Gremlify](https://gremlify.com/), menyediakan antarmuka Web untuk bermain dengan Graph - Gremlin. Beberapa contoh ada di *Graph Templates*. Aplikasi Web ini bisa digunakan untuk mempermudah pemahaman.
 
 ```
 Latihan
@@ -48,4 +49,3 @@ Tugas
 ```
 
 Cari info tentang JanusGraph. Buatlah diagram yang menjelaskan keterkaitan antara: JanusGraph, Apache Cassandra, Apache HBase, dan Gremlin.
-
