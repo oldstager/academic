@@ -22,7 +22,7 @@ Dr. Bambang Purnomosidi D. P.
 3.  [Dokumentasi Apache Cassandra](https://cassandra.apache.org/doc/latest/)
 4.  [Dokumentasi MongoDB](https://www.mongodb.com/)
 5.  [Dokumentasi Redis](https://redis.io/documentation)
-6.  [Dokumentasi Neo4J](https://neo4j.com/docs/)
+6.  [Dokumentasi Apache TinkerPop](https://tinkerpop.apache.org/)
 7.  [Dokumentasi InfluxDB](https://docs.influxdata.com/)
 8.  [Dokumentasi ArangoDB](https://www.arangodb.com/documentation/)
 
@@ -37,8 +37,8 @@ Dr. Bambang Purnomosidi D. P.
 | 5 | [NoSQL - Key Value / Tuple 2: Redis Lanjut](tbd/minggu-05.md) | 
 | 6 | [NoSQL - Wide Column Array 1: Memulai Apache Cassandra](tbd/minggu-06.md) | 
 | 7 | [NoSQL - Wide Column Array 2: Apache Cassandra Lanjut](tbd/minggu-07.md) | 
-| 8 | NoSQL - GraphDB 1: Memulai Neo4J | 
-| 9 | NoSQL - GraphDB 2: Neo4J Lanjut | 
+| 8 | [NoSQL - GraphDB 1: Memulai Apache TinkerPop - Gremlin](tbd/minggu-08.md) | 
+| 9 | NoSQL - GraphDB 2: Apache TinkerPop - Gremlin Lanjut | 
 | 10 | NoSQL - Time Series DB 1: Memulai InfluxDB | 
 | 11 | NoSQL - Time Series DB 2: InfluxDB Lanjut | 
 | 12 | NoSQL - Multimodel DB 1: Memulai ArangoDB | 
