@@ -23,7 +23,7 @@ Lihat pada `Materi dan Penjelasan` di setiap minggu
 | 5 | [BPaaS - Business Process as a Service](tcc/minggu-05.md) | 
 | 6 | [Data as a Service](tcc/minggu-06.md) | 
 | 7 | [Teknologi Virtualisasi dan *Container* - Docker](tcc/minggu-07.md) | 
-| 8 | | 
+| 8 | [Docker - Docker Compose - Docker Network - Docker Swarm](tcc/minggu-08.md) | 
 | 9 | | 
 | 10 | | 
 | 11 | | 

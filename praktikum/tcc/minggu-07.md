@@ -18,6 +18,7 @@
 ## Software yang Diperlukan
 
 * Sistem Operasi: Linux, Windows, Mac, FreeBSD, dan sistem operasi lain yang mendukung 
+* [Docker](https://docs.docker.com/get-docker/).
 
 ## Pembelajaran
 
