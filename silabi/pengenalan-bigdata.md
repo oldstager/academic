@@ -17,35 +17,35 @@ Hal utama yang akan dibahas adalah pengelolaan dan analisis data dengan jumlah *
 - Python dan berbagai pustaka untuk data engineering dan pengenalan data science.
 - DBMS SQL, NoSQL, NewSQL
 
-
 ## Dosen
 
 Dr. Bambang Purnomosidi D. P.
 
-## Resources
+## References
 
 1.  [Repo Akademik](https://github.com/oldstager/academic)
 2.  [Python documentation](https://docs.python.org/3/)
 3.  [Conda package and environment manager](https://conda.io)
 4.  [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
 5.  [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
+6.  [Big Data Fundamentals: Concepts, Drivers, and Techniques](https://www.pearson.com/us/higher-education/program/Erl-Big-Data-Fundamentals-Concepts-Drivers-Techniques/PGM328866.html)
 
 ## Materi Kuliah
 
 | Minggu | Judul | Sumber |
 | ------- | ------ |------ |
-| 1 | Pengenalan dan Ruang Lingkup Big Data | - | 
-| 2 | Memahami Data Engineering dan Data Science | - | 
-| 3 | Memahami ETL | - | 
-| 4 | Database dan Data Warehouse | - | 
-| 5 | SQL, NoSQL, NewSQL | - | 
-| 6 | Apache Airflow untuk Data Engineering | https://airflow.apache.org | 
-| 7 | Jupyter | https://jupyter.org | 
-| 8 | Pengenalan Pandas: Series dan DataFrame | 4 (bab 1) dan 5 | 
-| 9 | Operasi DataFrame | 4 (bab 2)  | 
-| 10 | Pengenalan Analisis Data | 4 (bab 3) | 
-| 11 | Memilih Subset Data  | 4 (bab 4) | 
-| 12 | Indeks dan Pengelompokan| 4 (bab 5, 6, 7) | 
-| 13 | Restrukturisasi Data dan Analisis Time Series| 4 (bab 8, 9, 10) | 
-| 14 | Visualisasi Data | 4 (bab 11) | 
+| 1 | Pengenalan dan Ruang Lingkup Big Data | Ref-6 (bab 1) | 
+| 2 | Faktor-faktor Kunci Adopsi Big Data | Ref-6 (bab 2) | 
+| 3 | Pertimbangan Dalam Adopsi dan Perencanaan Big Data | Ref-6 (bab 3) | 
+| 4 | Teknologi Enterprise dan Business Intelligence Berbasis Big Data | Ref-6 (bab 4) |
+| 5 | Teknologi Penyimpanan Big Data | Ref-6 (bab 7) | 
+| 6 | Jupyter | https://www.jupyter.org | 
+| 7 | Apache Airflow untuk Data Engineering | https://airflow.apache.org | 
+| 8 | Pengenalan Pandas: Series dan DataFrame | Ref-4 (bab 1) dan Ref-5 | 
+| 9 | Operasi DataFrame | Ref-4 (bab 2) | 
+| 10 | Pengenalan Analisis Data | Ref-6 (bab 8) dan Ref-4 (bab 3) | 
+| 11 | Memilih Subset Data  | Ref-4 (bab 4) | 
+| 12 | Indeks dan Pengelompokan| Ref-4 (bab 5, 6, 7) | 
+| 13 | Restrukturisasi Data dan Analisis Time Series| Ref-4 (bab 8, 9, 10) | 
+| 14 | Visualisasi Data | Ref-4 (bab 11) | 
 
