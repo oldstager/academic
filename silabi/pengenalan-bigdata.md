@@ -26,7 +26,7 @@ Dr. Bambang Purnomosidi D. P.
 1.  [Repo Akademik](https://github.com/oldstager/academic)
 2.  [Python documentation](https://docs.python.org/3/)
 3.  [Conda package and environment manager](https://conda.io)
-4.  [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook)
+4.  [Pandas Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pandas-cookbook). Lihat juga [repo GitHub untuk buku Ppandas Cookbook](https://github.com/PacktPublishing/Pandas-Cookbook).
 5.  [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 6.  [Big Data Fundamentals: Concepts, Drivers, and Techniques](https://www.pearson.com/us/higher-education/program/Erl-Big-Data-Fundamentals-Concepts-Drivers-Techniques/PGM328866.html)
 
