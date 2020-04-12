@@ -24,6 +24,7 @@
 
 * Sistem Operasi: Linux, Windows, Mac, FreeBSD, dan sistem operasi lain yang mendukung
 * JDK 8 - minimal 1.8.0_45, versi sebelum 1.8.0_45 tidak didukung Apache TinkerPop
+* Apache TinkerPop
 
 ## Pembelajaran
 

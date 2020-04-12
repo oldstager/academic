@@ -38,7 +38,7 @@ Dr. Bambang Purnomosidi D. P.
 | 6 | [NoSQL - Wide Column Array 1: Memulai Apache Cassandra](tbd/minggu-06.md) | 
 | 7 | [NoSQL - Wide Column Array 2: Apache Cassandra Lanjut](tbd/minggu-07.md) | 
 | 8 | [NoSQL - GraphDB 1: Memulai Apache TinkerPop - Gremlin](tbd/minggu-08.md) | 
-| 9 | NoSQL - GraphDB 2: Apache TinkerPop - Gremlin Lanjut | 
+| 9 | [NoSQL - GraphDB 2: Apache TinkerPop - Gremlin Lanjut](tbd/minggu-09.md) | 
 | 10 | NoSQL - Time Series DB 1: Memulai InfluxDB | 
 | 11 | NoSQL - Time Series DB 2: InfluxDB Lanjut | 
 | 12 | NoSQL - Multimodel DB 1: Memulai ArangoDB | 
