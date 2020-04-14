@@ -82,3 +82,30 @@ Kewajiban untuk memeriksa ulang ada pada kita. Don't take them as granted, alway
 | 13 | Git dan Automation - CI/CD (Continuous Integration/Delivery | 24 sampai 31 |
 | 14 | Cloud Native Application Development | 32 |
 
+
+## Catatan - Kondisi Wabah Covid-19
+
+Dengan mempertimbangkan kondisi terjadinya wabah Covid-19 di Indonesia sehingga mengakibatkan perkuliahan dilaksanakan secara online, ada beberapa penyesuaian terhadap materi kuliah. Materi sebelum UTS tetap materi 1-7 karena saat itu belum terjadi wabah Covid-19. Materi setelah UTS akan diutamakan ke Docker serta Kubernetes. Materi lainnya akan dipending dulu - karena memerlukan kuota Internet yang besar dan kondisi kurang memungkinkan untuk kuliah online karena heterogenitas tools serta kondisi kemampuan akses Internet yang berbeda-beda di antara para mahasiswa. Sebagai gantinya, materi akan diambil dari [Play with Docker](https://labs.play-with-docker.com/) dan [Play with Kubernetes](https://labs.play-with-k8s.com/).
+
+1.  Akses ke 2 website tersebut bisa diperoleh dengan menggunakan account di [Docker](https://docker.com). Jika anda belum punya Docker ID, silahkan [sign up](https://hub.docker.com/signup).
+2.  Setelah itu, silahkan login dan ikuti peta materi berikut.
+
+### Peta Materi
+
+Docker
+
+1.  [Docker for Beginners - Linux](https://training.play-with-docker.com/beginner-linux/).
+2.  [Docker Networking](https://training.play-with-docker.com/docker-networking-hol/).
+3.  [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/). Bagian ini menjelaskan tentang Docker Compose untuk *App Containerization and Orchestration*.
+4.  [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol/).
+
+Kubernetes
+
+5.  [Learn Kubertentes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/). Praktikkan
+    dan pahami tutorial interaktif yang ada disitu.
+6.  [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/).
+
+Pertemuan 7 
+
+Overview semua materi.
+
