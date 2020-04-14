@@ -101,8 +101,7 @@ Docker
 
 Kubernetes
 
-5.  [Learn Kubertentes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/). Praktikkan
-    dan pahami tutorial interaktif yang ada disitu.
+5.  [Learn Kubertentes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/). Praktikkan dan pahami tutorial interaktif yang ada disitu.
 6.  [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/).
 
 Pertemuan 7 
