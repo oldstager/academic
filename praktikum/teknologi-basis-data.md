@@ -40,7 +40,7 @@ Dr. Bambang Purnomosidi D. P.
 | 8 | [NoSQL - GraphDB 1: Memulai Apache TinkerPop - Gremlin](tbd/minggu-08.md) | 
 | 9 | [NoSQL - GraphDB 2: Apache TinkerPop - Gremlin Lanjut](tbd/minggu-09.md) | 
 | 10 | [NoSQL - Time Series DB 1: Memulai InfluxDB](tbd/minggu-10.md) | 
-| 11 | NoSQL - Time Series DB 2: InfluxDB Lanjut | 
+| 11 | [NoSQL - Time Series DB 2: InfluxDB Lanjut](tbd/minggu-11.md) | 
 | 12 | NoSQL - Multimodel DB 1: Memulai ArangoDB | 
 | 13 | NoSQL - Multimodel DB 2: ArangoDB Lanjut | 
 | 14 | NewSQL - CockroachDB | 
