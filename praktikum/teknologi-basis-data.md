@@ -42,7 +42,7 @@ Dr. Bambang Purnomosidi D. P.
 | 10 | [NoSQL - Time Series DB 1: Memulai InfluxDB](tbd/minggu-10.md) | 
 | 11 | [NoSQL - Time Series DB 2: InfluxDB Lanjut](tbd/minggu-11.md) | 
 | 12 | [NoSQL - Multimodel DB 1: Memulai ArangoDB](tbd/minggu-12.md) | 
-| 13 | NoSQL - Multimodel DB 2: ArangoDB Lanjut | 
+| 13 | [NoSQL - Multimodel DB 2: ArangoDB Lanjut](tbd/minggu-13.md) | 
 | 14 | NewSQL - CockroachDB | 
 
 ## Peserta
