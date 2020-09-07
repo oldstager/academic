@@ -11,6 +11,7 @@ Repo ini berisi beberapa silabi dari mata kuliah yang saya ajar, baik di [STMIK 
 * [Teknologi Cloud Computing](teknologi-cloud-computing.md)
 * [Pengenalan Big Data](pengenalan-bigdata.md)
 * [Paradigma Bahasa Pemrograman](paradigma-bahasa-pemrograman.md)
+* [Infrastruktur Big Data](infrastruktur-big-data.md)
 
 ### Magister Teknologi Informasi
 
