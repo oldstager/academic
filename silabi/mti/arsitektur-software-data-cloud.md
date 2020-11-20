@@ -34,7 +34,7 @@ Dr. Bambang Purnomosidi D. P.
 17. [Enterprise Architecture](https://en.wikipedia.org/wiki/Enterprise_architecture) merupakan disiplin yang khusus menerapkan arsitektur software di level *enterprise*). Artikel di LinkedIn ini menjelaskan tentang [gambaran umum EA yang sudah mengarah ke Archimate](https://www.linkedin.com/pulse/think-small-enterprise-architecture-tactical-level-tero-karttunen/). Enterprise Architecture bisa juga diaplikasikan pada lingkungan Cloud Computing seperti yang telah ditulis pada [Establishing Enterprise Architecture on AWS](https://d1.awsstatic.com/whitepapers/establishing-enterprise-architecture.pdf).
 18. Seperti halnya arsitektur software yang biasanya diwujudkan dengan notasi UML, EA diwujudkan salah satunya dengan menggunakan [Archimate dari OpenGroup](https://www.opengroup.org/archimate-home).
 19. [Archi](https://www.archimatetool.com/) adalah software bebas yang digunakan untuk pemodelan Archimate.
-20. [Artikel di Wikipedia tentang *microservices*](https://en.wikipedia.org/wiki/Microservices).
+20. [Artikel awal tentang Microservices dari Martin Fowler](https://martinfowler.com/articles/microservices.html) dan [artikel di Wikipedia tentang *microservices*](https://en.wikipedia.org/wiki/Microservices).
 21. [All Things Microservices](https://microservices.io/).
 22. [Paper: Pahl, Claus & Jamshidi, Pooyan & Zimmermann, Olaf. (2017). Architectural Principles for Cloud Software. ACM Transactions on Internet Technology. 18.10.1145/3104028.](https://www.researchgate.net/publication/317348634_Architectural_Principles_for_Cloud_Software).
 23. [Memodelkan SOA - Microservices menggunakan Archimate](https://medium.com/@yellekau/modelling-with-archimate-3-event-based-soa-a17916184426).
