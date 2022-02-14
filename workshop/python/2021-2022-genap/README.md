@@ -13,13 +13,13 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | 5.  | 05 | 15 Maret 2022 jam 07:59:59 WIB |
 | 6.  | 06 | 22 Maret 2022 jam 07:59:59 WIB |
 | 7.  | 07 | 29 Maret 2022 jam 07:59:59 WIB |
-| 7.  | 08 | TBD - jam 07:59:59 WIB |
-| 7.  | 09 | TBD - jam 07:59:59 WIB |
-| 7.  | 10 | TBD - jam 07:59:59 WIB |
-| 7.  | 11 | TBD - jam 07:59:59 WIB |
-| 7.  | 12 | TBD - jam 07:59:59 WIB |
-| 7.  | 13 | TBD - jam 07:59:59 WIB |
-| 7.  | 14 | TBD - jam 07:59:59 WIB |
+| 8.  | 08 | TBD - jam 07:59:59 WIB |
+| 9.  | 09 | TBD - jam 07:59:59 WIB |
+| 10.  | 10 | TBD - jam 07:59:59 WIB |
+| 11.  | 11 | TBD - jam 07:59:59 WIB |
+| 12.  | 12 | TBD - jam 07:59:59 WIB |
+| 13.  | 13 | TBD - jam 07:59:59 WIB |
+| 14.  | 14 | TBD - jam 07:59:59 WIB |
 
   **Catatan**: TBD - To Be Determined, jadwal mengikuti UTS.
 
