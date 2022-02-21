@@ -33,7 +33,7 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | 4.  | 195410016 | [Binti Mukaromah](https://github.com/BintiMukaromah/workshop-phyton) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 5.  | 195410018 | [Bagus Dwi Priyanto](https://github.com/BagusDwiP195410018/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 6.  | 195410025 | [Lita Anggraini](https://github.com/Lita-Anggraini/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
-| 7.  | 195410027 | [Ma'Ruf Islamudin](https://github.com/marufislamudin/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+| 7.  | 195410027 | [Ma'ruf Islamudin](https://github.com/marufislamudin/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 8.  | 195410028 | [Dandi Irwanto](https://github.com/dandiirwanto20/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 9.  | 195410029 | [Bagas Aditia](https://github.com/bgsaditiya/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 10. | 195410030 | [Nur Riska Rahmadani](https://github.com/NurRiskaRahmadani/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
