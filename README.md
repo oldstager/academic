@@ -17,3 +17,7 @@ This is the license used by Wikipedia, and is recommended for
 materials that would benefit from incorporating content from 
 Wikipedia and similarly licensed projects.
 ```
+
+## Git and GitHub
+
+All of contents in this repo are meant to be practiced using Git and GitHub. See https://github.com/zimera-systems/petunjuk-git-github for more information on how to use Git and GitHub.
