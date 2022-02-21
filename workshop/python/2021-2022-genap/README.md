@@ -28,7 +28,7 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | No  | NIM       | Nama                              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |-----|-----------|-----------------------------------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|
 | 1.  | 195410001 | [Aaron Frank Mailopuw](https://github.com/aaronfr21/Workshop-phyton) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
-| 2.  | 195410002 | [Jeremia Josevanadi Putra Sulistyo](https://github.com/Jeremia195410002/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+| 2.  | 195410002 | [Jeremia Josevanadi Putra Sulistyo](https://github.com/JeremiaJPS195410002/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 3.  | 195410008 | [Ayu Rizky Amalia](https://github.com/195410008ayurizky/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 4.  | 195410016 | [Binti Mukaromah](https://github.com/BintiMukaromah/workshop-phyton) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 5.  | 195410018 | [Bagus Dwi Priyanto](https://github.com/BagusDwiP195410018/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
@@ -49,11 +49,11 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | 20. | 195410142 | [Bella Nideni Mahendra](https://github.com/bellanm23/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 21. | 195410159 | [Ahmad Chatami Al- Milany](https://github.com/ahmadchatami/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 22. | 195410161 | [Muhammad Fajri](https://github.com/K1ne0n5/workshop-python.git) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
-| 23. | 195410162 | Muhammad Haidar Farros Mutaqin |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+| 23. | 195410162 | [Muhammad Haidar Farros Mutaqin](https://github.com/haidarfarros/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 24. | 195410170 | [Dafa Akmal Latukau](https://github.com/Dafaakmal12/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 25. | 195410172 | [Muhammad Raihan Assidiqi](https://github.com/MuhammadRaihanAssidiqi/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 26. | 195410174 | [Ade Priyatna Noor](https://github.com/adhenchor/workshop-python.git) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
-| 27. | 195410175 | [Muhammad Galang](https://github.com/username/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+| 27. | 195410175 | [Muhammad Galang](https://github.com/Galang025/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 28. | 195410183 | [Bagus Fahrudin Jamal](https://github.com/ghostvar/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 29. | 195410185 | Yan Paul Wambrauw |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 30. | 195410202 | [Fahreza Adrian Khasa](https://github.com/fahrezaadriankhasa/workshop-python.git) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
@@ -63,3 +63,5 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | 34. | 195410218 | [Sangkut Ikhlas](https://github.com/sangkutikhlas/Workshop-python.git) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 35. | 195410229 | [Satria Dwi Hartanto](https://github.com/SatriaDwiH195410229/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 36. | 195410257 | [Raden Isnawan Argi Aryasatya](https://github.com/zargiteddy/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+| 37. | 19541230 | [Reza Dian](https://github.com/RezaDianS-195410230/workshop-python) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
+| 38. | 195410003 | Rhenscky |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
