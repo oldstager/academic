@@ -64,4 +64,4 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | 35. | 195410229 | [Satria Dwi Hartanto](https://github.com/SatriaDwiH195410229/workshop-python) | 60 |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 36. | 195410257 | [Raden Isnawan Argi Aryasatya](https://github.com/zargiteddy/workshop-python) | 100 |   |   |   |   |   |   |   |   |    |    |    |    |    |
 | 37. | 19541230 | [Reza Dian](https://github.com/RezaDianS-195410230/workshop-python) | 0 |   |   |   |   |   |   |   |   |    |    |    |    |    |
-| 38. | 195410003 | Rhenscky | 0 |   |   |   |   |   |   |   |   |    |    |    |    |    |
+| 38. | 195410003 | [Rhenscky](https://github.com/Rhenscky/workshop-python) | 0 |   |   |   |   |   |   |   |   |    |    |    |    |    |
