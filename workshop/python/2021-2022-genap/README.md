@@ -26,7 +26,7 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 ## Peserta
 
 | No  | NIM       | Nama                              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-|-----|-----------|-----------------------------------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|
+|-----|-----------|-----------------------------------|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | 1.  | 195410001 | [Aaron Frank Mailopuw](https://github.com/aaronfr21/Workshop-phyton) | 0 | 50 |   |   |   |   |   |   |   |    |    |    |    |    |
 | 2.  | 195410002 | [Jeremia Josevanadi Putra Sulistyo](https://github.com/JeremiaJPS195410002/workshop-python) | 0 | 60 |   |   |   |   |   |   |   |    |    |    |    |    |
 | 3.  | 195410008 | [Ayu Rizky Amalia](https://github.com/195410008ayurizky/workshop-python) | 75 | 75 |   |   |   |   |   |   |   |    |    |    |    |    |
