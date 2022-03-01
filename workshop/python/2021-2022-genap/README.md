@@ -46,7 +46,7 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | 17. | 195410052 | [Brillian Maheswara Wahyatma](https://github.com/195410052Mahes/workshop-python.git) | 0 | 60 |   |   |   |   |   |   |   |    |    |    |    |    |
 | 18. | 195410108 | [Yopianto](https://github.com/Yopianto19/workshop-python) | 50 | 30 |   |   |   |   |   |   |   |    |    |    |    |    |
 | 19. | 195410128 | [Dwy Aulianti](https://github.com/DwyAulia/workshop-python) | 60 | 0 |   |   |   |   |   |   |   |    |    |    |    |    |
-| 20. | 195410142 | [Bella Nideni Mahendra](https://github.com/bellanm23/workshop-python) | 60 | 0 |   |   |   |   |   |   |   |    |    |    |    |    |
+| 20. | 195410142 | [Bella Nideni Mahendra](https://github.com/bellanm23/workshop-python) | 60 | 60 |   |   |   |   |   |   |   |    |    |    |    |    |
 | 21. | 195410159 | [Ahmad Chatami Al- Milany](https://github.com/ahmadchatami/workshop-python) | 0 | 50 |   |   |   |   |   |   |   |    |    |    |    |    |
 | 22. | 195410161 | [Muhammad Fajri](https://github.com/K1ne0n5/workshop-python.git) | 80 | 0 |   |   |   |   |   |   |   |    |    |    |    |    |
 | 23. | 195410162 | [Muhammad Haidar Farros Mutaqin](https://github.com/haidarfarros/workshop-python) | 0 | 40 |   |   |   |   |   |   |   |    |    |    |    |    |
