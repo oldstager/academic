@@ -24,15 +24,15 @@ Dr. Bambang Purnomosidi D. P.
 
 | Minggu | Judul | Sumber |
 | ------- | ------ |------ |
-| 1 | Instalasi dan Penggunaan *Interpreter* Python | Kerjakan tutorial - bab 1 sampai 3 | 
-| 2 | Pengendali Aliran Program | Kerjakan tutorial - bab 4 | 
-| 3 | Struktur Data | Kerjakan tutorial - bab 5 | 
-| 4 | Modul di Python | Kerjakan tutorial - bab 6 | 
-| 5 | I/O | Kerjakan tutorial - bab 7 | 
-| 6 | Penanganan Error dan Exception | Kerjakan tutorial - bab 8 | 
-| 7 | OOP di Python | Kerjakan tutorial - bab 9 | 
-| 8 | Pustaka Standar | Kerjakan tutorial - bab 10 dan 11 | 
-| 9 | Virtual Environment dan Package Manager | Kerjakan tutorial - bab 12. Pelajari [dokumentasi Conda](https://conda.io/projects/conda/en/latest/user-guide/index.html) kemudian kerjakan [conda - getting started](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) | 
+| 1 | Instalasi dan Penggunaan *Interpreter* Python | Kerjakan tutorial - [bab 1](https://docs.python.org/3/tutorial/appetite.html), [bab 2](https://docs.python.org/3/tutorial/interpreter.html), dan [bab 3](https://docs.python.org/3/tutorial/introduction.html) | 
+| 2 | Pengendali Aliran Program | Kerjakan tutorial - [bab 4](https://docs.python.org/3/tutorial/controlflow.html) | 
+| 3 | Struktur Data | Kerjakan tutorial - [bab 5](https://docs.python.org/3/tutorial/datastructures.html) | 
+| 4 | Modul di Python | Kerjakan tutorial - [bab 6](https://docs.python.org/3/tutorial/modules.html) | 
+| 5 | I/O | Kerjakan tutorial - [bab 7](https://docs.python.org/3/tutorial/inputoutput.html) | 
+| 6 | Penanganan Error dan Exception | Kerjakan tutorial - [bab 8](https://docs.python.org/3/tutorial/errors.html) | 
+| 7 | OOP di Python | Kerjakan tutorial - [bab 9](https://docs.python.org/3/tutorial/classes.html) | 
+| 8 | Pustaka Standar | Kerjakan tutorial - [bab 10](https://docs.python.org/3/tutorial/stdlib.html) dan [bab 11](https://docs.python.org/3/tutorial/stdlib2.html) | 
+| 9 | Virtual Environment dan Package Manager | Kerjakan tutorial - [bab 12](https://docs.python.org/3/tutorial/venv.html). Pelajari [dokumentasi Conda](https://conda.io/projects/conda/en/latest/user-guide/index.html) kemudian kerjakan [conda - getting started](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) | 
 | 10 | Akses ke Basis Data | [PEP-249](https://www.python.org/dev/peps/pep-0249/), [dokumentasi psycopg](https://www.psycopg.org/), [PyMongo](https://github.com/mongodb/mongo-python-driver), [SQLAlchemy](https://www.sqlalchemy.org/). Kerjakan dan jelaskan [akses ke basis data CockroachDB menggunakan psycopg2](https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb.html) dan [menggunakan SQLAlchemy](https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb-sqlalchemy.html) |
 | 11 | Pemrograman Web | [Flask](https://flask.palletsprojects.com/en/2.0.x/). Kerjakan dan jelaskan [Tutorial](https://flask.palletsprojects.com/en/2.0.x/tutorial/) | 
 | 12 | Jupyter | [Jupyter](https://jupyter.org/). Install Jupyter di komputer lokal anda dan kerjakan praktikum minggu ke 3 (struktur data) menggunakan Jupyter. | 
