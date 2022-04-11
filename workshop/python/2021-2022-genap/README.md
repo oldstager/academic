@@ -13,27 +13,25 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | 5.  | 05 | 15 Maret 2022 jam 07:59:59 WIB |
 | 6.  | 06 | 22 Maret 2022 jam 07:59:59 WIB |
 | 7.  | 07 | 29 Maret 2022 jam 07:59:59 WIB |
-| 8.  | 08 | TBD - jam 07:59:59 WIB |
-| 9.  | 09 | TBD - jam 07:59:59 WIB |
+| 8.  | 08 | 19 April 2022 jam 07:59:59 WIB |
+| 9.  | 09 | 26 April 2022 jam 07:59:59 WIB |
 | 10.  | 10 | TBD - jam 07:59:59 WIB |
 | 11.  | 11 | TBD - jam 07:59:59 WIB |
 | 12.  | 12 | TBD - jam 07:59:59 WIB |
 | 13.  | 13 | TBD - jam 07:59:59 WIB |
 | 14.  | 14 | TBD - jam 07:59:59 WIB |
 
-  **Catatan**: TBD - To Be Determined, jadwal mengikuti UTS.
-
 ## Peserta
 
 | No  | NIM       | Nama                              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |-----|-----------|-----------------------------------|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| 1.  | 195410001 | [Aaron Frank Mailopuw](https://github.com/aaronfr21/Workshop-phyton) | 0 | 50 | 90 | 50 | 50 |   |   |   |   |    |    |    |    |    |
-| 2.  | 195410002 | [Jeremia Josevanadi Putra Sulistyo](https://github.com/JeremiaJPS195410002/workshop-python) | 0 | 60 | 90 | 80 | 80 |   |   |   |   |    |    |    |    |    |
-| 3.  | 195410008 | [Ayu Rizky Amalia](https://github.com/195410008ayurizky/workshop-python) | 75 | 75 | 60 | 70 | 80 |   |   |   |   |    |    |    |    |    |
-| 4.  | 195410016 | [Binti Mukaromah](https://github.com/BintiMukaromah/workshop-phyton) | 75 | 60 | 70 | 80 | 80 |   |   |   |   |    |    |    |    |    |
-| 5.  | 195410018 | [Bagus Dwi Priyanto](https://github.com/BagusDwiP195410018/workshop-python) | 0 | 0 | 0 | 0 | 70 |   |   |   |   |    |    |    |    |    |
-| 6.  | 195410025 | [Lita Anggraini](https://github.com/Lita-Anggraini/workshop-python) | 70 | 70 | 60 | 75 | 90 |   |   |   |   |    |    |    |    |    |
-| 7.  | 195410027 | [Ma'ruf Islamudin](https://github.com/marufislamudin/workshop-python) | 50 | 30 | 60 | 75 | 90 |   |   |   |   |    |    |    |    |    |
+| 1.  | 195410001 | [Aaron Frank Mailopuw](https://github.com/aaronfr21/Workshop-phyton) | 0 | 50 | 90 | 50 | 50 | 70 | 60 |   |   |    |    |    |    |    |
+| 2.  | 195410002 | [Jeremia Josevanadi Putra Sulistyo](https://github.com/JeremiaJPS195410002/workshop-python) | 0 | 60 | 90 | 80 | 80 | 70 | 0 |   |   |    |    |    |    |    |
+| 3.  | 195410008 | [Ayu Rizky Amalia](https://github.com/195410008ayurizky/workshop-python) | 75 | 75 | 60 | 70 | 80 | 85 | 80 |   |   |    |    |    |    |    |
+| 4.  | 195410016 | [Binti Mukaromah](https://github.com/BintiMukaromah/workshop-phyton) | 75 | 60 | 70 | 80 | 80 | 70 | 70 |   |   |    |    |    |    |    |
+| 5.  | 195410018 | [Bagus Dwi Priyanto](https://github.com/BagusDwiP195410018/workshop-python) | 0 | 0 | 0 | 0 | 70 | 60 | 65 |   |   |    |    |    |    |    |
+| 6.  | 195410025 | [Lita Anggraini](https://github.com/Lita-Anggraini/workshop-python) | 70 | 70 | 60 | 75 | 90 | 70 | 70 |   |   |    |    |    |    |    |
+| 7.  | 195410027 | [Ma'ruf Islamudin](https://github.com/marufislamudin/workshop-python) | 50 | 30 | 60 | 75 | 90 | 80 | 0 |   |   |    |    |    |    |    |
 | 8.  | 195410028 | [Dandi Irwanto](https://github.com/dandiirwanto20/workshop-python) | 80 | 100 | 100 | 100 | 100 |   |   |   |   |    |    |    |    |    |
 | 9.  | 195410029 | [Bagas Aditia](https://github.com/bgsaditiya/workshop-python) | 80 | 60 | 85 | 75 | 95 |   |   |   |   |    |    |    |    |    |
 | 10. | 195410030 | [Nur Riska Rahmadani](https://github.com/NurRiskaRahmadani/workshop-python) | 100 | 95 | 95 | 100 | 95 |   |   |   |   |    |    |    |    |    |
