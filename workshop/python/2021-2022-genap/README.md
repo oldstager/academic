@@ -26,7 +26,7 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | No  | NIM       | Nama                              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |-----|-----------|-----------------------------------|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | 1.  | 195410001 | [Aaron Frank Mailopuw](https://github.com/aaronfr21/Workshop-phyton) | 0 | 50 | 90 | 50 | 50 | 70 | 60 | 75  |   |    |    |    |    |    |
-| 2.  | 195410002 | [Jeremia Josevanadi Putra Sulistyo](https://github.com/JeremiaJPS195410002/workshop-python) | 0 | 60 | 90 | 80 | 80 | 70 | 0 | 0 |   |    |    |    |    |    |
+| 2.  | 195410002 | [Jeremia Josevanadi Putra Sulistyo](https://github.com/JeremiaJPS195410002/workshop-python) | 0 | 60 | 90 | 80 | 80 | 70 | 0 | 85 |   |    |    |    |    |    |
 | 3.  | 195410008 | [Ayu Rizky Amalia](https://github.com/195410008ayurizky/workshop-python) | 75 | 75 | 60 | 70 | 80 | 85 | 80 | 100 |   |    |    |    |    |    |
 | 4.  | 195410016 | [Binti Mukaromah](https://github.com/BintiMukaromah/workshop-phyton) | 75 | 60 | 70 | 80 | 80 | 70 | 70 | 75  |   |    |    |    |    |    |
 | 5.  | 195410018 | [Bagus Dwi Priyanto](https://github.com/BagusDwiP195410018/workshop-python) | 0 | 0 | 0 | 0 | 70 | 60 | 65 | 70 |   |    |    |    |    |    |
@@ -50,7 +50,7 @@ Berikut adalah peserta dari **Workshop Python** untuk tahun ajaran 2021-2022 sem
 | 23. | 195410162 | [Muhammad Haidar Farros Mutaqin](https://github.com/haidarfarros/workshop-python) | 0 | 40 | 75 | 70 | 75 | 70 | 0 | 0 |   |    |    |    |    |    |
 | 24. | 195410170 | [Dafa Akmal Latukau](https://github.com/Dafaakmal12/workshop-python) | 95 | 90 | 90 | 100 | 100 | 95 | 100 | 95 |   |    |    |    |    |    |
 | 25. | 195410172 | [Muhammad Raihan Assidiqi](https://github.com/MuhammadRaihanAssidiqi/workshop-python) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |   |    |    |    |    |    |
-| 26. | 195410174 | [Ade Priyatna Noor](https://github.com/adhenchor/workshop-python.git) | 80 | 0 | 90 | 85 | 85 | 85 | 0 | 0 |   |    |    |    |    |    |
+| 26. | 195410174 | [Ade Priyatna Noor](https://github.com/adhenchor/workshop-python.git) | 80 | 0 | 90 | 85 | 85 | 85 | 0 | 85 |   |    |    |    |    |    |
 | 27. | 195410175 | [Muhammad Galang](https://github.com/Galang025/workshop-python) | 70 | 60 | 40 | 10 | 85 | 95 | 100 | 0  |   |    |    |    |    |    |
 | 28. | 195410183 | [Bagus Fahrudin Jamal](https://github.com/ghostvar/workshop-python) | 75 | 95 | 100 | 90 | 95 | 75 | 0 | 0  |   |    |    |    |    |    |
 | 29. | 195410185 | Yan Paul Wambrauw | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |   |    |    |    |    |    |
