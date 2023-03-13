@@ -69,9 +69,3 @@ Dr. Bambang Purnomosidi D. P.
    dan seterusnya
 ```
 
-# Peserta
-
-* [TA 2018-2019](2018-2019/)
-* [TA 2019-2020 semester genap](2019-2020-genap/)
-* [TA 2021-2022 semester genap](2021-2022-genap/)
-
