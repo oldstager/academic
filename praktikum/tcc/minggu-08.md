@@ -1,4 +1,4 @@
-# Praktikum Teknologi Basis Data - Minggu 
+# Praktikum Teknologi Cloud Computing - Minggu 08 
 
 ## Materi
 
