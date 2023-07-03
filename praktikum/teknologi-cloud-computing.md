@@ -30,7 +30,7 @@ Untuk materi 9 - selesai, praktikum dilaksanakan dengan menggunakan materi [Play
 | 10 | [Docker Networking](https://training.play-with-docker.com/docker-networking-hol/) | 
 | 11 | [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/). Bagian ini menjelaskan tentang Docker Compose untuk *App Containerization and Orchestration* | 
 | 12 | [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol/) | 
-| 13 | [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/). Praktikkan dan pahami tutorial interaktif yang ada disitu | 
+| 13 | [Memulai - Menggunakan Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/). Praktikkan dan pahami tutorial interaktif yang ada disitu | 
 | 14 | [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/) | 
 
 ## Peserta
